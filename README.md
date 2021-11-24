@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/projectdiscovery/network-fingerprint)](https://goreportcard.com/report/github.com/projectdiscovery/network-fingerprint)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/projectdiscovery/network-fingerprint/issues)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/pdnuclei.svg?logo=twitter)](https://twitter.com/pdnuclei)
-[![Chat on Discord](https://img.shields.io/discord/695645237418131507.svg?logo=discord)](https://discord.gg/projectdiscovery)
+[![Chat on Discord](https://img.shields.io/discord/695645237418131507.svg?logo=discord)](https://discord.gg/projectdiscovery)a
 
 Capture packet request/response pairs for a port and/or IP to aid in Network protocol based Nuclei Templates creation.
 
